@@ -6,7 +6,7 @@ This repository contains an implementation of Groq function calling, utilizing t
 2. **Install Dependencies**: Use pip to install the required dependencies listed in the requirements.txt file.
    ```bash
    pip install -r requirements.txt
-4. **Generate Groq API Key**: Visit the [GROQ](https://console.groq.com/keys) to generate an API key. Replace the placeholder API key in the `.env` file with the one you've generated.
+4. **Generate Groq API Key**: Visit the [GROQ](https://console.groq.com/keys) to generate a free API key. Replace the placeholder API key in the `.env` file with the one you've generated.
 5. **Create Google App Password**: Follow the instructions provided in [Google's documentation](https://support.google.com/accounts/answer/185833?hl=en) to create an app password. This password will be used for sending emails via Gmail. Update the `.env` and also add your email id.
 6. **Run the Streamlit App**: Execute the Streamlit app using the following command:
   ```bash
