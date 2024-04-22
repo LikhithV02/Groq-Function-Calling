@@ -1,2 +1,2 @@
-# Groq-Function-Calling
-Implementing groq function calling
+# Groq-Fuction-Calling
+Implementing groq fuction calling
