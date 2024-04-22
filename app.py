@@ -74,7 +74,12 @@ def chat_interface():
     
     system_prompt = f'''You are a helpful assistant, who is capable of doing anything that th user asks. You are great at writing code, solving math, debugging errors, sending emails and many more.
     Let me tell you about user:
-    <User data>
+    Name: Likhith V
+    working at PG-AGI as AI/ML intern
+    Also studying Bachelors of Engineering in Artificial and Machine Learning
+    Currently in my last semester.
+    Loved learn more about AI and ML.
+    Looking for a JOB.
 '''
     # print("System Prompt: ", system_prompt)
     if prompt := st.chat_input("User input"):
